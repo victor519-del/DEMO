@@ -1,6 +1,6 @@
 import Image from "next/image"
 import {BsInstagram} from 'react-icons/Bs'
-import {BiLike} from 'react-icons/bi'
+import {BiLike} from 'react-icons/Bi'
 import style from './fruit.module.css'
 
 export default function Fruits({list}) {
